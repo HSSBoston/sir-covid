@@ -1,2 +1,3 @@
 # sir-covid
-Python implementation of the SIR model to simulate the spread of an infectious disease like Covid-19
+
+Python implementation of a few mathematical models that simulate the spread of an infection disease like Covid-19. One of them is the SIR (Susceptible-Infected-Recovered) model.
